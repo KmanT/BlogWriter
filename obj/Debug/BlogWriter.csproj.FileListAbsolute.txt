@@ -1,0 +1,10 @@
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\bin\Debug\BlogWriter.exe.config
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\bin\Debug\BlogWriter.exe
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\bin\Debug\BlogWriter.pdb
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.csprojAssemblyReference.cache
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.Form1.resources
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.Properties.Resources.resources
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.csproj.GenerateResource.cache
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.exe
+C:\Users\Kyle\Source\Repos\BlogWriter\BlogWriter\obj\Debug\BlogWriter.pdb
